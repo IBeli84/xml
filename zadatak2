@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<knjiznice>
+   <knjiznica>
+    <vrsta>Gradska</vrsta>
+    <adresa>Ilica 20, Zagreb</adresa>
+        <!-- detalji o knjizi -->
+        <knjiga>
+            <autor>Ivo Andric</autor>
+            <naziv>Na Drini cuprija</naziv>
+            <zanr>Roman</zanr>
+            <godina_izdanja>1945</godina_izdanja>
+            <broj_primjeraka>5</broj_primjeraka>
+        </knjiga>
+    </knjiznica>
+   <knjiznica>
+    <vrsta>Gradska</vrsta>
+    <adresa>Ilica 20, Zagreb</adresa>
+        <!-- detalji o knjizi -->
+        <knjiga>
+            <autor>Fjodor Dostojevski</autor>
+            <naziv>Zlocin i kazna</naziv>
+            <zanr>Roman</zanr>
+            <godina_izdanja>1866</godina_izdanja>
+            <broj_primjeraka>3</broj_primjeraka>
+        </knjiga>
+   </knjiznica>
+   <knjiznica>
+    <vrsta>Fakultetska</vrsta>
+    <adresa>Vukovarska 58, Split</adresa>
+        <!-- detalji o knjizi -->
+    	<knjiga>
+            <autor>Brian Kernighan</autor>
+            <naziv>C programiranje</naziv>
+            <zanr>Informatika</zanr>
+            <godina_izdanja>1988</godina_izdanja>
+            <broj_primjeraka>7</broj_primjeraka>
+        </knjiga>
+   </knjiznica>
+   <knjiznica>
+    <vrsta>Fakultetska</vrsta>
+    <adresa>Vukovarska 58, Split</adresa>
+        <!-- detalji o knjizi -->
+        <knjiga>
+            <autor>Thomas Cormen</autor>
+            <naziv>Uvod u algoritme</naziv>
+            <zanr>Informatika</zanr>
+            <godina_izdanja>2009</godina_izdanja>
+            <broj_primjeraka>4</broj_primjeraka>
+        </knjiga>
+   </knjiznica>
+   <knjiznica>
+    <vrsta>Fakultetska</vrsta>
+    <adresa>Vukovarska 58, Split</adresa>
+        <!-- detalji o knjizi -->
+        <knjiga>
+            <autor>William Shakespeare</autor>
+            <naziv>Hamlet</naziv>
+            <zanr>Drama</zanr>
+            <godina_izdanja>1603</godina_izdanja>
+            <broj_primjeraka>6</broj_primjeraka>
+        </knjiga>
+   </knjiznica>
+</knjiznice>
