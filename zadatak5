@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zadatak>
+    <ime></ime>
+    <cijena></cijena>
+    <godine></godine>
+    <aktivan></aktivan>
+    <datumRodjenja></datumRodjenja>
+    <vrijemePocetka></vrijemePocetka>
+</zadatak>
