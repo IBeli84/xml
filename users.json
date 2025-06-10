@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ivan Beli",
+      "email": "ibeli@tvz.hr",
+      "age": 21,
+      "role": "designer"
+    },
+    {
+      "name": "Ivan Beli",
+      "email": "ibeli@tvz.hr",
+      "age": 21,
+      "role": "administrator"
+    },
+    {
+      "name": "Ivan Beli",
+      "email": "ibeli@tvz.hr",
+      "age": 21,
+      "role": "enginner"
+    }
+  ]
+}

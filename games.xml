@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pjesme>
+  <pjesma>
+    <id>1</id>
+    <name>Enter Sandman</name>
+    <album>Black album(1991)</album>
+    <pregledi>1.3B</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>2</id>
+    <name>Disposable Heroes</name>
+    <album>Master of Puppets(1986)</album>
+    <pregledi>56M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>3</id>
+    <name>The Shortest Straw</name>
+    <album>...and Justice for All(1988)</album>
+    <pregledi>50M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>4</id>
+    <name>All Nighmare Long</name>
+    <album>Death Magnetic(2008)</album>
+    <pregledi>74M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>5</id>
+    <name>Dyers Eve</name>
+    <album>...and Justice for All(1988)</album>
+    <pregledi>38M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>6</id>
+    <name>The God That Failed</name>
+    <album>Black album(1991)</album>
+    <pregledi>46M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>7</id>
+    <name>Master of Puppets</name>
+    <album>Master of Puppets(1986)</album>
+    <pregledi>808M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>8</id>
+    <name>Leper Messiah</name>
+    <album>Master of Puppets(1986)</album>
+    <pregledi>40M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>9</id>
+    <name>Sad But True</name>
+    <album>Black album(1991)</album>
+    <pregledi>331M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>10</id>
+    <name>Fade to Black</name>
+    <album>Ride the Lightning(1984)</album>
+    <pregledi>301M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>11</id>
+    <name>Nothing Else Matters</name>
+    <album>Black album(1991)</album>
+    <pregledi>1.1B</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>12</id>
+    <name>Inamorata</name>
+    <album>72 Seasons(2023)</album>
+    <pregledi>9M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>13</id>
+    <name>The Unforgiven III</name>
+    <album>Death Magnetic(2008)</album>
+    <pregledi>74M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>14</id>
+    <name>To Live is to Die</name>
+    <album>...and Justice for All(1988)</album>
+    <pregledi>32M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>15</id>
+    <name>One</name>
+    <album>...and Justice for All(1988)</album>
+    <pregledi>543M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>16</id>
+    <name>Suicide and Redemption</name>
+    <album>Death Magnetic(2008)</album>
+    <pregledi>14M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>17</id>
+    <name>Orion</name>
+    <album>Master of Puppets(1986)</album>
+    <pregledi>82M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>18</id>
+    <name>The Unforgiven II</name>
+    <album>Reload(1997)</album>
+    <pregledi>140M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>19</id>
+    <name>Damage Inc.</name>
+    <album>Master of Puppets(1986)</album>
+    <pregledi>40M</pregledi>
+  </pjesma>
+  <pjesma>
+    <id>20</id>
+    <name>My Friend of Misery</name>
+    <album>Black album(1991)</album>
+    <pregledi>47M</pregledi>
+  </pjesma>
+</pjesme>
